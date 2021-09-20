@@ -1,0 +1,10 @@
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\bin\Debug\M226A_B01_1b.exe.config
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\bin\Debug\M226A_B01_1b.exe
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\bin\Debug\M226A_B01_1b.pdb
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.csprojAssemblyReference.cache
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.Form1.resources
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.Properties.Resources.resources
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.csproj.GenerateResource.cache
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.csproj.CoreCompileInputs.cache
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.exe
+C:\Users\vmadmin\source\repos\M226A_Klassenbeziehungen\M226A_B01_1b\obj\Debug\M226A_B01_1b.pdb
